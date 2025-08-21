@@ -1,6 +1,8 @@
 # Arduino-MP3-Player
 
 /*
+ *  **DONATION:** Paypal - paypal.me/wyderl04
+ *
  * **Project: Simple Arduino MP3 Player with Push Button**
  * Description: This project plays an MP3 file from an SD card when a button is pressed.
  * It's a great beginner project for creating a simple, custom music player.
@@ -51,5 +53,5 @@
  * - You MUST have an MP3 file named "track1.mp3" on the root directory of your SD card.
  * 
  * 
- * **DONATION:** Paypal - paypal.me/wyderl04
+ *
  */
