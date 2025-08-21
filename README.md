@@ -19,7 +19,7 @@
  * 2. TMRpcm.h (You need to install this library via the Library Manager in the Arduino IDE.
  * Search for "TMRpcm" and install it.)
  *
- *** TMRpcm Library Notes:**
+ * **TMRpcm Library Notes:**
  * This library uses a PWM pin to output audio. It's a simple, low-cost solution.
  * The output quality is not CD quality, but it is perfect for a small gift project.
  * Pin 9 is used as the default audio output on most Arduino boards.
