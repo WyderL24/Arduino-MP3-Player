@@ -49,5 +49,7 @@
  * - A simple debouncing mechanism (using the `isButtonPressed` variable) prevents the music from restarting multiple times with a single press.
  * - When the button is pressed, the code checks if the music is already playing. If it's not, it plays the "track1.mp3" file.
  * - You MUST have an MP3 file named "track1.mp3" on the root directory of your SD card.
- *
+ * 
+ * 
+ * **DONATION:** Paypal - paypal.me/wyderl04
  */
